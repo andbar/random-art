@@ -1,4 +1,5 @@
 import random
+import math
 
 # Your job is to create better version of create_expression and
 # run_expression to create random art.
